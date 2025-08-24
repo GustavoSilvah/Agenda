@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uMw0sQO6Yfw=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos_CSharp\\Agenda\\AgendaWF\\AgendaWF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
